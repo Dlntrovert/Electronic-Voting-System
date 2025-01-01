@@ -10,3 +10,4 @@ Features :
 Language: C++
 
 Concepts: OOP (Inheritance, Encapsulation, Polymorphism), File Handling
+*This project is a result of teamwork.*
